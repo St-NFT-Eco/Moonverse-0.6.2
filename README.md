@@ -1,7 +1,7 @@
 # MOONVERSE-0.6
 
 ## MVP - NFT minting stage 
-v5
+v6
 ### 1. frontend ( React.js )
 NFT minting landing pages.
 
