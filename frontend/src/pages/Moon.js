@@ -1,16 +1,16 @@
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Landy from '../components/Landy'
+import Minter from '../components/Minter'
 
 
-function Land() {
+function Moon() {
     return (
         <div className="flex-col justify-center">
             <Navbar />
-            <Landy />
+            <Minter />
             <Footer />
         </div>
-    ); 
+    );
   }
   
-  export default Land;
+  export default Moon;
